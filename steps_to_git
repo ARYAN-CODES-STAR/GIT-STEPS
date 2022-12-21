@@ -15,3 +15,9 @@ git status                            ( info. related to working of your file sy
 git add -A                            
 
 git commit -m” “
+
+
+git push -u origin main
+OR
+(if there is some warning then refer this) force push
+git push -u origin main -- force
