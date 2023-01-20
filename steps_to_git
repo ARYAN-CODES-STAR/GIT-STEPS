@@ -17,6 +17,8 @@ git add -A
 git commit -m” “
 
 
+git init
+
 git push -u origin main
 OR
 (if there is some warning then refer this) force push
