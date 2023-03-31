@@ -23,3 +23,4 @@ git push -u origin main
 OR
 (if there is some warning then refer this) force push
 git push -u origin main -- force
+
